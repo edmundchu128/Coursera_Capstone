@@ -1,0 +1,79 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	108460	9791056	1107.7
+	"Alaska"	"02"	9066	1468983	617.2
+	"Arizona"	"04"	119518	14450363	827.1
+	"Arkansas"	"05"	65224	6031629	1081.4
+	"California"	"06"	538649	79069268	681.2
+	"Colorado"	"08"	77916	11454300	680.2
+	"Connecticut"	"09"	62975	7137952	882.3
+	"Delaware"	"10"	18735	1940935	965.3
+	"District of Columbia"	"11"	9935	1408204	705.5
+	"Florida"	"12"	412428	42777062	964.1
+	"Georgia"	"13"	171016	21136898	809.1
+	"Hawaii"	"15"	22974	2836363	810.0
+	"Idaho"	"16"	28691	3541273	810.2
+	"Illinois"	"17"	219118	25412901	862.2
+	"Indiana"	"18"	131694	13424097	981.0
+	"Iowa"	"19"	61234	6311215	970.2
+	"Kansas"	"20"	55219	5824819	948.0
+	"Kentucky"	"21"	97697	8936075	1093.3
+	"Louisiana"	"22"	91986	9308772	988.2
+	"Maine"	"23"	29780	2682616	1110.1
+	"Maryland"	"24"	101368	12088398	838.6
+	"Massachusetts"	"25"	117782	13794652	853.8
+	"Michigan"	"26"	197987	19982772	990.8
+	"Minnesota"	"27"	90259	11250811	802.2
+	"Mississippi"	"28"	65265	5962679	1094.6
+	"Missouri"	"29"	125518	12263880	1023.5
+	"Montana"	"30"	20394	2131083	957.0
+	"Nebraska"	"31"	33874	3863676	876.7
+	"Nevada"	"32"	50301	6114548	822.6
+	"New Hampshire"	"33"	25518	2716169	939.5
+	"New Jersey"	"34"	150775	17790710	847.5
+	"New Mexico"	"35"	38519	4192257	918.8
+	"New York"	"36"	313558	38995770	804.1
+	"North Carolina"	"37"	189766	20871704	909.2
+	"North Dakota"	"38"	13147	1522139	863.7
+	"Ohio"	"39"	247981	23378542	1060.7
+	"Oklahoma"	"40"	81863	7900050	1036.2
+	"Oregon"	"41"	73557	8408450	874.8
+	"Pennsylvania"	"42"	268685	25609049	1049.2
+	"Rhode Island"	"44"	20339	2116676	960.9
+	"South Carolina"	"45"	101602	10232841	992.9
+	"South Dakota"	"46"	16241	1766894	919.2
+	"Tennessee"	"47"	143013	13599184	1051.6
+	"Texas"	"48"	405573	57697726	702.9
+	"Utah"	"49"	37090	6367063	582.5
+	"Vermont"	"50"	11983	1250288	958.4
+	"Virginia"	"51"	139684	17053204	819.1
+	"Washington"	"53"	115140	15150484	760.0
+	"West Virginia"	"54"	46882	3597979	1303.0
+	"Wisconsin"	"55"	107873	11636002	927.1
+	"Wyoming"	"56"	10191	1156496	881.2
+"Total"			5694043	655406957	868.8
+"---"
+"Dataset: Underlying Cause of Death, 2018-2019, Single Race"
+"Query Parameters:"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Feb 26, 2021 6:38:14 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"2018-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 2018-2019, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10-expanded.html on Feb 26, 2021 6:38:14 AM"
+"---"
+Caveats:
+"1. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage 2019"
+"postcensal series released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2018 postcensal series released by the Census Bureau on June 20, 2019."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
